@@ -1,4 +1,4 @@
-# homebrew-tap
+# homebrew-maccoli
 
 Homebrew tap for [MacColi](https://github.com/Jun-Jin/MacColi) — a native macOS
 desktop app for managing your [Colima](https://github.com/abiosoft/colima)
@@ -7,7 +7,7 @@ container VM.
 ## Install
 
 ```sh
-brew tap Jun-Jin/tap
+brew tap Jun-Jin/maccoli
 brew install --cask maccoli
 ```
 
