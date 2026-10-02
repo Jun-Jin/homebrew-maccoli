@@ -1,6 +1,6 @@
 cask "maccoli" do
-  version "0.7.2"
-  sha256 "cd9b99035d2b7ba170ff3613cc831f557de584d10a090572a207f6aeef2e30c0"
+  version "0.7.3"
+  sha256 "2404e34fd778cd124c38707f29d9a291e7f7095ddd5a6ef2b82dbaf278842352"
 
   url "https://github.com/Jun-Jin/MacColi/releases/download/v#{version}/MacColi-#{version}.dmg"
   name "MacColi"
